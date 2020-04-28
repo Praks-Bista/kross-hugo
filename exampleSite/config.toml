@@ -29,7 +29,7 @@ google_analytics_id = ""
 home = "Home"
 logo = "images/logo.png"
 phone = "+977 9860485617"
-theme_color = "#A9A9A9"
+theme_color = "#1C1C1C"
 [params.contact]
 enable = true
 form_action = "#"
