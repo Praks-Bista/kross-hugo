@@ -1,7 +1,6 @@
 +++
 date = 2020-04-07T18:15:00Z
 description = "Life is not as easy as you dreamt it to be. Complications, vibes of giving up, sarcasm of people, demotivation from your loved ones, it comes eventually."
-draft = true
 image = "/images/life_2.jpg"
 title = "Life"
 
