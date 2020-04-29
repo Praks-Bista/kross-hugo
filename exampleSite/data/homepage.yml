@@ -28,7 +28,7 @@ experience:
   enable: true
   title: My Experiences
   item:
-  - logo: images/experience/icon-1.png
+  - logo: images/experience/volunteer.png
     title: Web Development Workshop Volunteer
     company: Kathford International College of Engineering and Management
     duration: "2019"
