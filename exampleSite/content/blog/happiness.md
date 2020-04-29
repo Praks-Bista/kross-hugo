@@ -1,7 +1,6 @@
 +++
 date = 2020-04-20T18:15:00Z
 description = "Taking time out for yourself, to be alone with yourself, to know your weaknesses and your strengths and to make yourself a better person is satisfying"
-draft = true
 image = "/images/happiness.jpg"
 title = "Happiness..."
 
