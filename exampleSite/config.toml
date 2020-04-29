@@ -3,7 +3,6 @@ languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "Prakriti Bista"
-disqusShortname: praks
 [[menu.main]]
 URL = "about"
 name = "About"
