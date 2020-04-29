@@ -43,8 +43,8 @@ education:
     year: 2015-2017
     academy: Trinity International College
   - title: Grade 1 through 10
-    year: "2000"
-    academy: Cardiff School
+    year: ''
+    academy: St. Mary's School
 service:
   enable: true
   title: What Can I Do
