@@ -2,7 +2,7 @@
 title: About
 description: Writer,Designer,Artist,Foodie,Photographer and Nature Lover who just
   wants to enjoy life to it's fullest surrounded by the ones she loves.
-author_image: images/about/author.jpg
+author_image: images/about/about.jpg
 author_signature: images/about/signature.png
 
 ---
