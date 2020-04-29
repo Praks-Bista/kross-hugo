@@ -60,5 +60,5 @@ icon = "ti-facebook"
 URL = "https://github.com/Praks-Bista"
 icon = "ti-github"
 [[params.social]]
-URL = "#"
+URL = "https://twitter.com/praks_bista"
 icon = "ti-twitter-alt"
