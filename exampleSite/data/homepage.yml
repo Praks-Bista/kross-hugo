@@ -58,7 +58,7 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Services
+  title: What Can I Do
   item:
   - title: Graphics Design
     icon: ti-ink-pen
