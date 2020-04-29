@@ -16,4 +16,5 @@ fields:
   label: description
 pages:
 - exampleSite/content/blog/happiness.md
+- exampleSite/content/blog/i-am-still-alive.md
 - exampleSite/content/blog/life.md

@@ -1,0 +1,11 @@
++++
+date = 2020-04-27T18:15:00Z
+description = "I wake up every morning for the purpose of living today happily. But, things are not going as I planned. “New day new beginning” is just a statement good to hear as I am unable to implement that."
+draft = true
+image = ""
+title = "I Am Still Alive"
+
++++
+I wake up every morning for the purpose of living today happily. But, things are not going as I planned. “New day new beginning” is just a statement good to hear as I am unable to implement that. **It’s a new day, but the purpose is to fulfill the duty I left behind yesterday.**
+
+I am doing those things I ought to do for a living. I am just a human being alive in this world. I am afraid to try new things since it doesn’t fit into my life or due to the fear of people judging me. The judgment of people towards you are toxin in your life. Some may like you, some may not. There are those people who judge me because they compare themselves with me. Two-faced people are not hard to find in life. They are sweet as honey in front of you but they spill venom behind your back which you cannot even imagine. They try to kill you with their actions but guess what, I am still alive. I know I need to do things that make me happy, which I can do it with perfection, which will keep me moving and giving me hope. It doesn’t go as planned. Life is not controlled by oneself but those external factors, which may make your life bearable or can make your life completely upside down. Betrayal, hardship, sorrow, and love is a part of life. It may kill or heal you. With all these things going on I am still working as a machine because I think I have a purpose to be alive. Night draws itself and I am lying in my bed remembering everything. I thank god for the day and complain to him about the facts that happened throughout. I close my eyes unknown to the feeling of whether I’ll wake up tomorrow morning or if it is going to be my last day of living. I rest peacefully. The chirping of the birds wake me up. I open my eyes and gather my soul. I am still alive. I am looking forward to the day. Is there a surprise for me? Is it a hard day? Can I go through the day? Will I be happy? Is it going to be as planned? Many thoughts are running inside me because I am still alive.
