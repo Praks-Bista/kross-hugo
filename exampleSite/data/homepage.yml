@@ -61,7 +61,7 @@ service:
   title: Services
   item:
   - title: Graphics Design
-    icon: ti-
+    icon: ti-ink-pen
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: true
