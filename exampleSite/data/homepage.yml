@@ -14,7 +14,7 @@ skill:
   item:
   - title: Web Design
     progress: 90%
-    color: "#fdb157"
+    color: "#1C1C1C"
   - title: Logo Design
     progress: 60%
     color: "#9473e6"
