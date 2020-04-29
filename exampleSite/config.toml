@@ -51,11 +51,11 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
-URL = ""
-icon = "ti-facebook"
-[[params.social]]
 URL = "https://www.instagram.com/bista.prakriti1999"
 icon = "ti-instagram"
+[[params.social]]
+URL = "https://www.facebook.com/profile.php?id=100008263206166"
+icon = "ti-facebook"
 [[params.social]]
 URL = "https://github.com/Praks-Bista"
 icon = "ti-github"
