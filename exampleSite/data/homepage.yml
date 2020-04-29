@@ -26,7 +26,7 @@ skill:
     color: "#ffbcaa"
 experience:
   enable: true
-  title: Experience
+  title: My Experiences
   item:
   - logo: images/experience/icon-1.png
     title: Junior UX Designer
