@@ -51,6 +51,9 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = "images/preloader.gif"
 [[params.social]]
+URL = "https://www.linkedin.com/in/prakriti-bista-960bb6190/"
+icon = "ti-linkedin"
+[[params.social]]
 URL = "https://www.instagram.com/bista.prakriti1999"
 icon = "ti-instagram"
 [[params.social]]
