@@ -20,7 +20,7 @@ skill:
     color: "#9473e6"
   - title: Graphics Design
     progress: 70%
-    color: "#ffbcaa"
+    color: "#1c1c1c"
 experience:
   enable: true
   title: My Experiences
