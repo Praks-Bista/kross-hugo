@@ -12,6 +12,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Sketching
+    progress: "80"
+    color: "#1c1c1c"
   - title: Content Writing
     progress: 70%
     color: "#1c1c1c"
