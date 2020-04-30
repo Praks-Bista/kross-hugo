@@ -15,9 +15,9 @@ skill:
   - title: Web Design
     progress: 90%
     color: "#1C1C1C"
-  - title: Logo Design
-    progress: 60%
-    color: "#9473e6"
+  - title: Content Writing
+    progress: 70%
+    color: "#1c1c1c"
   - title: Graphics Design
     progress: 70%
     color: "#1c1c1c"
