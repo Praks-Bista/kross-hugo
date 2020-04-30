@@ -12,6 +12,12 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Photograpy
+    progress: 75%
+    color: "#1c1c1c"
+  - title: Illustrations
+    progress: 70%
+    color: "#1c1c1c"
   - title: Sketching
     progress: "80"
     color: "#1c1c1c"
@@ -21,9 +27,6 @@ skill:
   - title: Web Design
     progress: 90%
     color: "#1C1C1C"
-  - title: Illustrations
-    progress: 70%
-    color: "#1c1c1c"
 experience:
   enable: true
   title: My Experiences
