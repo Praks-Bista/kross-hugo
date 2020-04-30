@@ -12,13 +12,13 @@ skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
-    progress: 90%
-    color: "#1C1C1C"
   - title: Content Writing
     progress: 70%
     color: "#1c1c1c"
-  - title: Graphics Design
+  - title: Web Design
+    progress: 90%
+    color: "#1C1C1C"
+  - title: Illustrations
     progress: 70%
     color: "#1c1c1c"
 experience:
