@@ -12,6 +12,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: C/C++
+    progress: 70%
+    color: "#1c1c1c"
   - title: Photograpy
     progress: 75%
     color: "#1c1c1c"
