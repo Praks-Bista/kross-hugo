@@ -10,6 +10,21 @@ item:
   project_url: ''
   categories:
   - Painting
+- title: The Flash
+  image: images/portfolio/flash.jpg
+  project_url: ''
+  categories:
+  - Sketch
+- title: Pattern
+  image: images/portfolio/pattern.jpg
+  project_url: ''
+  categories:
+  - Illustrations
+- title: Moon Though Trees
+  image: images/portfolio/tree-moon.jpg
+  project_url: ''
+  categories:
+  - Painting
 - title: Blue Sky
   image: images/portfolio/Blue_sky.jpg
   project_url: ''
@@ -20,11 +35,6 @@ item:
   project_url: ''
   categories:
   - Painting
-- title: The Flash
-  image: images/portfolio/flash.jpg
-  project_url: ''
-  categories:
-  - Sketch
 - title: Flower
   image: images/portfolio/flower_sketch.jpg
   project_url: ''
@@ -35,11 +45,6 @@ item:
   project_url: ''
   categories:
   - Sketch
-- title: Pattern
-  image: images/portfolio/pattern.jpg
-  project_url: ''
-  categories:
-  - Illustrations
 - title: Window
   image: images/portfolio/window.jpg
   project_url: ''
@@ -47,11 +52,6 @@ item:
   - Painting
 - title: Blosson
   image: images/portfolio/tree1.jpg
-  project_url: ''
-  categories:
-  - Painting
-- title: Moon Though Trees
-  image: images/portfolio/tree-moon.jpg
   project_url: ''
   categories:
   - Painting
