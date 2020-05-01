@@ -8,7 +8,8 @@ item:
 - title: Wheat Farm
   image: images/portfolio/wheat.jpg
   project_url: ''
-  categories: ''
+  categories:
+  - Painting
 - title: Do What You Can't!
   image: images/portfolio/writing.jpg
   project_url: ''
