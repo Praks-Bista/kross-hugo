@@ -1,5 +1,10 @@
 ---
 item:
+- title: Random Dice Generator
+  image: images/portfolio/dice.png
+  project_url: https://github.com/Praks-Bista/Dice_app
+  categories:
+  - Flutter
 - title: Blue Sky
   image: images/portfolio/Blue_sky.jpg
   project_url: ''
