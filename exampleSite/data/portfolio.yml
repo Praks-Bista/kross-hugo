@@ -1,5 +1,10 @@
 ---
 item:
+- title: Orange Tree
+  image: images/portfolio/orange_tree.jpg
+  project_url: ''
+  categories:
+  - Painting
 - title: The Flash
   image: images/portfolio/flash.jpg
   project_url: ''
