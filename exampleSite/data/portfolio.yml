@@ -1,12 +1,6 @@
 ---
 item:
 - title: Portfolio Item
-  image: images/portfolio/item-1.png
-  project_url: http://examplesite.com
-  categories:
-  - design
-  - development
-- title: Portfolio Item
   image: images/portfolio/item-2.png
   project_url: "#"
   categories:
@@ -16,11 +10,6 @@ item:
   project_url: http://examplesite.com
   categories:
   - illustration
-- title: Portfolio Item
-  image: images/portfolio/item-5.png
-  project_url: "#"
-  categories:
-  - design
 clients_logo_slider:
   enable: true
   title: My Clients
