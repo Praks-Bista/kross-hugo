@@ -1,5 +1,10 @@
 ---
 item:
+- title: Cosmos
+  image: images/portfolio/cosmos.jpg
+  project_url: ''
+  categories:
+  - Painting
 - title: Random Dice Generator
   image: images/portfolio/dice.png
   project_url: https://github.com/Praks-Bista/Dice_app
