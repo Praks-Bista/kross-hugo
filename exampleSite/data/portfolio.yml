@@ -1,5 +1,10 @@
 ---
 item:
+- title: Blue Sky
+  image: images/portfolio/Blue_sky.jpg
+  project_url: ''
+  categories:
+  - Painting
 - title: Orange Tree
   image: images/portfolio/orange_tree.jpg
   project_url: ''
