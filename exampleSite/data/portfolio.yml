@@ -1,5 +1,10 @@
 ---
 item:
+- title: Window
+  image: images/portfolio/window.jpg
+  project_url: ''
+  categories:
+  - Painting
 - title: Blosson
   image: images/portfolio/tree1.jpg
   project_url: ''
