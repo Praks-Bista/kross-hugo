@@ -1,5 +1,10 @@
 ---
 item:
+- title: City Girl
+  image: images/portfolio/city_girl.jpg
+  project_url: ''
+  categories:
+  - Sketch
 - title: Portfolio Item
   image: images/portfolio/item-2.png
   project_url: "#"
