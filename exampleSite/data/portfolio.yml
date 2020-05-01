@@ -3,7 +3,8 @@ item:
 - title: The Flash
   image: images/portfolio/flash.jpg
   project_url: ''
-  categories: ''
+  categories:
+  - Sketch
 - title: Flower
   image: images/portfolio/flower_sketch.jpg
   project_url: ''
