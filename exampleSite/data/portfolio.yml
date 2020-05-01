@@ -1,5 +1,10 @@
 ---
 item:
+- title: Pattern
+  image: images/portfolio/pattern.jpg
+  project_url: ''
+  categories:
+  - Illustrations
 - title: Window
   image: images/portfolio/window.jpg
   project_url: ''
