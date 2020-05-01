@@ -1,5 +1,10 @@
 ---
 item:
+- title: Garden
+  image: images/portfolio/splash.jpg
+  project_url: ''
+  categories:
+  - Painting
 - title: Wheat Farm
   image: images/portfolio/wheat.jpg
   project_url: ''
