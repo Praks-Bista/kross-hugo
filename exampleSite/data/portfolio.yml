@@ -1,5 +1,10 @@
 ---
 item:
+- title: Moon Though Trees
+  image: images/portfolio/tree-moon.jpg
+  project_url: ''
+  categories:
+  - Painting
 - title: Wire Poles
   image: images/portfolio/wires.jpg
   project_url: ''
