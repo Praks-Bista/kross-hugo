@@ -10,11 +10,11 @@ item:
   project_url: "#"
   categories:
   - Painting
-- title: Portfolio Item
-  image: images/portfolio/item-3.png
-  project_url: http://examplesite.com
+- title: Mountains
+  image: images/portfolio/crayon_1.jpg
+  project_url: ''
   categories:
-  - illustration
+  - Painting
 clients_logo_slider:
   enable: true
   title: My Clients
