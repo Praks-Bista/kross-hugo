@@ -1,5 +1,10 @@
 ---
 item:
+- title: ZigZag
+  image: images/portfolio/zigzag.jpg
+  project_url: images/portfolio/zigzag.jpg
+  categories:
+  - Crayon
 - title: Random Dice Generator
   image: images/portfolio/dice.png
   project_url: https://github.com/Praks-Bista/Dice_app
