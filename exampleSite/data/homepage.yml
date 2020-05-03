@@ -12,6 +12,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Flutter
+    progress: 67%
+    color: "#1c1c1c"
   - title: C/C++
     progress: 70%
     color: "#1c1c1c"
