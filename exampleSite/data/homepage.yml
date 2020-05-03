@@ -34,6 +34,10 @@ experience:
   enable: true
   title: My Experiences
   item:
+  - logo: ''
+    title: Volunteer
+    company: Social Service Club,St. Mary's High School
+    duration: 3 Years
   - logo: images/experience/st_marys.jpg
     title: Volunteer
     company: Environment club, St. Mary's High School
