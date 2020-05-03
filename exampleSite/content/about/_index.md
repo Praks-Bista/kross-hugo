@@ -6,8 +6,8 @@ author_image: images/about/about.jpg
 author_signature: images/about/signature.png
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+A nature lover as my name states. Nature in Nepali is known as "Prakriti". I am just a simple girl having a normal dreams. Different things around me interest me with a lot of questions.  What is this? How is it made? What's the purpose of this?, are some normal question which arises every time i see something new. I have many hobbies which define who I truly am. Doing something for mother nature is my passion. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Painting or sketching helps me to release stress and have a peaceful mind. Trying variety of food makes me a happy child inside. I love capturing moments for memories. 
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I have a child within me who wants to be happy and to be surrounded by people whom I adore the most.
