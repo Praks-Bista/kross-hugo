@@ -1,7 +1,6 @@
 +++
 date = 2020-05-02T18:15:00Z
 description = "What do you think??"
-draft = true
 image = "/images/future-technology.jpg"
 title = "Technological World and Traditional mindset"
 
