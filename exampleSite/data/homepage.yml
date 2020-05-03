@@ -35,12 +35,12 @@ experience:
   title: My Experiences
   item:
   - logo: images/experience/st_marys.jpg
-    title: Volunteer
-    company: Social Service Club,St. Mary's High School
+    title: Volunteer,Social Service Club
+    company: St. Mary's High School
     duration: 3 Years
   - logo: images/experience/st_marys.jpg
-    title: Volunteer
-    company: Environment club, St. Mary's High School
+    title: Volunteer, Environment club
+    company: St. Mary's High School
     duration: 1 Year
   - logo: images/experience/kathford.png
     title: Web Development Workshop Volunteer
