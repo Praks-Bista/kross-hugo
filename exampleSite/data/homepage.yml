@@ -34,6 +34,10 @@ experience:
   enable: true
   title: My Experiences
   item:
+  - logo: ''
+    title: Volunteer
+    company: Environment club, St. Mary's High School
+    duration: 1 Year
   - logo: images/experience/volunteer.png
     title: Web Development Workshop Volunteer
     company: Kathford International College of Engineering and Management
