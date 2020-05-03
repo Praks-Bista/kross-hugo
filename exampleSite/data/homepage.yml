@@ -12,6 +12,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Machine Learning
+    progress: 15%
+    color: "#1c1c1c"
   - title: Flutter
     progress: 67%
     color: "#1c1c1c"
