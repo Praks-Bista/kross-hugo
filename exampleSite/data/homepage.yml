@@ -34,18 +34,18 @@ experience:
   enable: true
   title: My Experiences
   item:
-  - logo: images/experience/stmarys.png
-    title: Volunteer,Social Service Club
-    company: St. Mary's High School
-    duration: 3 Years
-  - logo: images/experience/st_marys.jpg
-    title: Volunteer, Environment club
-    company: St. Mary's High School
-    duration: 1 Year
   - logo: images/experience/kathford.png
     title: Web Development Workshop Volunteer
     company: Kathford International College of Engineering and Management
     duration: 1 week
+  - logo: images/experience/stmarys.png
+    title: Volunteer,Social Service Club
+    company: St. Mary's High School
+    duration: 3 Years
+  - logo: images/experience/stmarys.png
+    title: Volunteer, Environment club
+    company: St. Mary's High School
+    duration: 1 Year
 education:
   enable: true
   title: Education
