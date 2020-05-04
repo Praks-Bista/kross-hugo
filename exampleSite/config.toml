@@ -48,7 +48,7 @@ URL = "plugins/slick/slick.min.js"
 [[params.plugins.js]]
 URL = "plugins/shuffle/shuffle.min.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif"
 [[params.social]]
 URL = "https://www.instagram.com/bista.prakriti1999"
