@@ -94,7 +94,7 @@ item:
   image: images/portfolio/crayon_1.jpg
   project_url: ''
   categories:
-  - Painting
+  - Crayon
 clients_logo_slider:
   enable: false
   title: My Clients
