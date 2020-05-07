@@ -1,5 +1,10 @@
 ---
 item:
+- title: Flower Shot
+  image: images/portfolio/flower_shot.jpg
+  project_url: images/portfolio/flower_shot.jpg
+  categories:
+  - Photography
 - title: ZigZag
   image: images/portfolio/zigzag.jpg
   project_url: images/portfolio/zigzag.jpg
