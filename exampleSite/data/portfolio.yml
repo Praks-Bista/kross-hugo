@@ -1,5 +1,10 @@
 ---
 item:
+- title: Clouds
+  image: images/portfolio/clouds.jpg
+  project_url: images/portfolio/clouds.jpg
+  categories:
+  - Photography
 - title: Sunset Through The Clouds
   image: images/portfolio/sunset.jpg
   project_url: images/portfolio/sunset.jpg
