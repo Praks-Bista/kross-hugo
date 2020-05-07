@@ -1,5 +1,10 @@
 ---
 item:
+- title: Sky
+  image: images/portfolio/sky.jpg
+  project_url: images/portfolio/sky.jpg
+  categories:
+  - Photography
 - title: Flower Shot
   image: images/portfolio/flower_shot.jpg
   project_url: images/portfolio/flower_shot.jpg
