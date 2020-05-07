@@ -15,6 +15,16 @@ item:
   project_url: https://github.com/Praks-Bista/Dice_app
   categories:
   - Flutter
+- title: Cosmos
+  image: images/portfolio/cosmos.jpg
+  project_url: images/portfolio/cosmos.jpg
+  categories:
+  - Painting
+- title: The Flash
+  image: images/portfolio/flash.jpg
+  project_url: ''
+  categories:
+  - Sketch
 - title: Sunset Through The Clouds
   image: images/portfolio/sunset.jpg
   project_url: images/portfolio/sunset.jpg
@@ -25,21 +35,11 @@ item:
   project_url: images/portfolio/sky.jpg
   categories:
   - Photography
-- title: The Flash
-  image: images/portfolio/flash.jpg
-  project_url: ''
-  categories:
-  - Sketch
 - title: Flower Shot
   image: images/portfolio/flower_shot.jpg
   project_url: images/portfolio/flower_shot.jpg
   categories:
   - Photography
-- title: Cosmos
-  image: images/portfolio/cosmos.jpg
-  project_url: images/portfolio/cosmos.jpg
-  categories:
-  - Painting
 - title: Pattern
   image: images/portfolio/pattern.jpg
   project_url: ''
