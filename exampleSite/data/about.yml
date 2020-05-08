@@ -1,19 +1,17 @@
 ---
 work_process:
   enable: true
-  title: Work Process
+  title: How I do something!
   item:
   - title: Research and Plan
     icon: images/icons/plan.png
     content: ''
   - title: Design and Develop
     icon: images/icons/design.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
   - title: Deliver
     icon: images/icons/print.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
 team:
   enable: false
   title: My Team
