@@ -1,5 +1,10 @@
 ---
 item:
+- title: A fly on a flower
+  image: images/portfolio/fly_on_flower.jpg
+  project_url: images/portfolio/fly_on_flower.jpg
+  categories:
+  - Photography
 - title: Clouds
   image: images/portfolio/clouds.jpg
   project_url: images/portfolio/clouds.jpg
