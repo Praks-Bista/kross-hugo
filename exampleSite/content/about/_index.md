@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 description: Writer,Designer,Artist,Foodie,Photographer and Nature Lover who just
   wants to enjoy life to it's fullest surrounded by the ones she loves.
 author_image: images/about/about.jpg
