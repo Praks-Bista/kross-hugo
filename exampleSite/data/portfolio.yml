@@ -5,11 +5,6 @@ item:
   project_url: images/portfolio/fly_on_flower.jpg
   categories:
   - Photography
-- title: Clouds
-  image: images/portfolio/clouds.jpg
-  project_url: images/portfolio/clouds.jpg
-  categories:
-  - Photography
 - title: ZigZag
   image: images/portfolio/zigzag.jpg
   project_url: images/portfolio/zigzag.jpg
@@ -50,6 +45,11 @@ item:
   project_url: ''
   categories:
   - Illustrations
+- title: Clouds
+  image: images/portfolio/clouds.jpg
+  project_url: images/portfolio/clouds.jpg
+  categories:
+  - Photography
 - title: Moon Though Trees
   image: images/portfolio/tree-moon.jpg
   project_url: ''
