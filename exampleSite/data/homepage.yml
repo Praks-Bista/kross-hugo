@@ -80,8 +80,7 @@ service:
     highlighted: true
   - title: Content Writing
     icon: ti-write
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
     highlighted: true
 portfolio:
   enable: true
