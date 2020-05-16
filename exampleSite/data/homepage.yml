@@ -13,6 +13,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: SQL
+    progress: 65%
+    color: "#1c1c1c"
   - title: Machine Learning
     progress: 15%
     color: "#1c1c1c"
