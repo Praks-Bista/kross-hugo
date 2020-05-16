@@ -72,13 +72,11 @@ service:
   item:
   - title: Graphics Design
     icon: ti-ink-pen
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
     highlighted: true
   - title: Digital and Physical Art
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
     highlighted: true
   - title: Content Writing
     icon: ti-write
