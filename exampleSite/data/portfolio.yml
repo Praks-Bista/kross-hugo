@@ -87,17 +87,17 @@ item:
   - Painting
 - title: Wire Poles
   image: images/portfolio/wires.jpg
-  project_url: ''
+  project_url: images/portfolio/wires.jpg
   categories:
   - Painting
 - title: Garden
   image: images/portfolio/splash.jpg
-  project_url: ''
+  project_url: images/portfolio/splash.jpg
   categories:
   - Painting
 - title: Wheat Farm
   image: images/portfolio/wheat.jpg
-  project_url: ''
+  project_url: images/portfolio/wheat.jpg
   categories:
   - Painting
 - title: Do What You Can't!
