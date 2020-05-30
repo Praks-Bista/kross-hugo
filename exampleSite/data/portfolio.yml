@@ -72,17 +72,17 @@ item:
   - Sketch
 - title: Oppa
   image: images/portfolio/sketch_man.jpg
-  project_url: ''
+  project_url: images/portfolio/sketch_man.jpg
   categories:
   - Sketch
 - title: Window
   image: images/portfolio/window.jpg
-  project_url: ''
+  project_url: images/portfolio/window.jpg
   categories:
   - Painting
 - title: Blosson
   image: images/portfolio/tree1.jpg
-  project_url: ''
+  project_url: images/portfolio/tree1.jpg
   categories:
   - Painting
 - title: Wire Poles
