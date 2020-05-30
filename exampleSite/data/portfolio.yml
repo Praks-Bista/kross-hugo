@@ -57,7 +57,7 @@ item:
   - Painting
 - title: Blue Sky
   image: images/portfolio/Blue_sky.jpg
-  project_url: ''
+  project_url: images/portfolio/Blue_sky.jpg
   categories:
   - Painting
 - title: Orange Tree
