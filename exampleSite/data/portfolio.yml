@@ -42,7 +42,7 @@ item:
   - Photography
 - title: Pattern
   image: images/portfolio/pattern.jpg
-  project_url: ''
+  project_url: images/portfolio/pattern.jpg
   categories:
   - Illustrations
 - title: Clouds
