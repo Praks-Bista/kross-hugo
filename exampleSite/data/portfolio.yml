@@ -62,12 +62,12 @@ item:
   - Painting
 - title: Orange Tree
   image: images/portfolio/orange_tree.jpg
-  project_url: ''
+  project_url: images/portfolio/orange_tree.jpg
   categories:
   - Painting
 - title: Flower
   image: images/portfolio/flower_sketch.jpg
-  project_url: ''
+  project_url: images/portfolio/flower_sketch.jpg
   categories:
   - Sketch
 - title: Oppa
