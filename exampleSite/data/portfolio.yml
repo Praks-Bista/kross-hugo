@@ -117,7 +117,7 @@ item:
   - Painting
 - title: Mountains
   image: images/portfolio/crayon_1.jpg
-  project_url: ''
+  project_url: images/portfolio/crayon_1.jpg
   categories:
   - Crayon
 clients_logo_slider:
