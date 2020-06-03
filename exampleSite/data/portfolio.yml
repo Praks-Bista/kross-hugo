@@ -57,17 +57,17 @@ item:
   - Photography
 - title: Moon Though Trees
   image: images/portfolio/tree-moon.jpg
-  project_url: ''
+  project_url: "../images/portfolio/tree-moon.jpg"
   categories:
   - Painting
 - title: Blue Sky
   image: images/portfolio/Blue_sky.jpg
-  project_url: images/portfolio/Blue_sky.jpg
+  project_url: "../images/portfolio/Blue_sky.jpg"
   categories:
   - Painting
 - title: Orange Tree
   image: images/portfolio/orange_tree.jpg
-  project_url: images/portfolio/orange_tree.jpg
+  project_url: "../images/portfolio/orange_tree.jpg"
   categories:
   - Painting
 - title: Flower
