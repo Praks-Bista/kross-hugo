@@ -32,7 +32,7 @@ item:
   - Sketch
 - title: Sunset Through The Clouds
   image: images/portfolio/sunset.jpg
-  project_url: images/portfolio/sunset.jpg
+  project_url: "../images/portfolio/sunset.jpg"
   categories:
   - Photography
 - title: Sky
