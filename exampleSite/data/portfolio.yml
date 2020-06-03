@@ -1,5 +1,10 @@
 ---
 item:
+- title: Joker
+  image: images/portfolio/joker.jpg
+  project_url: "../images/portfolio/joker.jpg"
+  categories:
+  - Sketch
 - title: Sunset on the hill
   image: images/portfolio/sunset-1.jpg
   project_url: "../images/portfolio/sunset-1.jpg"
