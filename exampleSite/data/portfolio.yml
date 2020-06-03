@@ -87,12 +87,12 @@ item:
   - Painting
 - title: Blosson
   image: images/portfolio/tree1.jpg
-  project_url: images/portfolio/tree1.jpg
+  project_url: "../images/portfolio/tree1.jpg"
   categories:
   - Painting
 - title: Wire Poles
   image: images/portfolio/wires.jpg
-  project_url: images/portfolio/wires.jpg
+  project_url: "../images/portfolio/wires.jpg"
   categories:
   - Painting
 - title: Garden
