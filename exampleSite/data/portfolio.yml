@@ -117,12 +117,12 @@ item:
   - Sketch
 - title: Tree
   image: images/portfolio/tree2.jpg
-  project_url: images/portfolio/tree2.jpg
+  project_url: "../images/portfolio/tree2.jpg"
   categories:
   - Painting
 - title: Mountains
   image: images/portfolio/crayon_1.jpg
-  project_url: images/portfolio/crayon_1.jpg
+  project_url: "../images/portfolio/crayon_1.jpg"
   categories:
   - Crayon
 clients_logo_slider:
