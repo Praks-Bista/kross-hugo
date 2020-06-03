@@ -1,7 +1,7 @@
 ---
 item:
 - title: Food website
-  image: "/images/portfolio/website.png"
+  image: images/portfolio/website.png
   project_url: https://praks-bista.github.io/Praks-food-website/
   categories:
   - Website
