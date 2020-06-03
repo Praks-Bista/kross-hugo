@@ -2,7 +2,7 @@
 item:
 - title: Sunset on the hill
   image: images/portfolio/sunset-1.jpg
-  project_url: images/portfolio/sunset-1.jpg
+  project_url: "../images/portfolio/sunset-1.jpg"
   categories:
   - Photography
 - title: A fly on a flower
