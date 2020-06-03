@@ -27,7 +27,7 @@ item:
   - Painting
 - title: The Flash
   image: images/portfolio/flash.jpg
-  project_url: ''
+  project_url: "../images/portfolio/flash.jpg"
   categories:
   - Sketch
 - title: Sunset Through The Clouds
