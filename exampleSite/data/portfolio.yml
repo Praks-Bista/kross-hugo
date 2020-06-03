@@ -102,17 +102,17 @@ item:
   - Painting
 - title: Wheat Farm
   image: images/portfolio/wheat.jpg
-  project_url: images/portfolio/wheat.jpg
+  project_url: "../images/portfolio/wheat.jpg"
   categories:
   - Painting
 - title: Do What You Can't!
   image: images/portfolio/writing.jpg
-  project_url: images/portfolio/writing.jpg
+  project_url: "../images/portfolio/writing.jpg"
   categories:
   - Painting
 - title: City Girl
   image: images/portfolio/city_girl.jpg
-  project_url: images/portfolio/city_girl.jpg
+  project_url: "../images/portfolio/city_girl.jpg"
   categories:
   - Sketch
 - title: Tree
