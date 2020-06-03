@@ -7,7 +7,7 @@ item:
   - Photography
 - title: A fly on a flower
   image: images/portfolio/fly_on_flower.jpg
-  project_url: images/portfolio/fly_on_flower.jpg
+  project_url: "../images/portfolio/fly_on_flower.jpg"
   categories:
   - Photography
 - title: ZigZag
