@@ -1,5 +1,10 @@
 ---
 item:
+- title: Climate app
+  image: images/portfolio/weather_app
+  project_url: https://praks-bista.github.io/climate_app/
+  categories:
+  - Flutter
 - title: Food website
   image: images/portfolio/website.png
   project_url: https://praks-bista.github.io/Praks-food-website/
