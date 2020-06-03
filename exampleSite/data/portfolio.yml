@@ -2,7 +2,7 @@
 item:
 - title: Climate app
   image: images/portfolio/weather_app.png
-  project_url: https://praks-bista.github.io/climate_app/
+  project_url: https://github.com/Praks-Bista/climate_app
   categories:
   - Flutter
 - title: Food website
