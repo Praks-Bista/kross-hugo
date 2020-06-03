@@ -42,17 +42,17 @@ item:
   - Photography
 - title: Flower Shot
   image: images/portfolio/flower_shot.jpg
-  project_url: images/portfolio/flower_shot.jpg
+  project_url: "../images/portfolio/flower_shot.jpg"
   categories:
   - Photography
 - title: Pattern
   image: images/portfolio/pattern.jpg
-  project_url: images/portfolio/pattern.jpg
+  project_url: "../images/portfolio/pattern.jpg"
   categories:
   - Illustrations
 - title: Clouds
   image: images/portfolio/clouds.jpg
-  project_url: images/portfolio/clouds.jpg
+  project_url: "../images/portfolio/clouds.jpg"
   categories:
   - Photography
 - title: Moon Though Trees
