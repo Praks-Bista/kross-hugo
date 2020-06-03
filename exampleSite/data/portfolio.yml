@@ -2,7 +2,7 @@
 item:
 - title: Food website
   image: "/images/website.png"
-  project_url: ''
+  project_url: https://praks-bista.github.io/Praks-food-website/
   categories:
   - Website
 - title: Joker
