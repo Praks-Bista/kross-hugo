@@ -72,12 +72,12 @@ item:
   - Painting
 - title: Flower
   image: images/portfolio/flower_sketch.jpg
-  project_url: images/portfolio/flower_sketch.jpg
+  project_url: "../images/portfolio/flower_sketch.jpg"
   categories:
   - Sketch
 - title: Oppa
   image: images/portfolio/sketch_man.jpg
-  project_url: images/portfolio/sketch_man.jpg
+  project_url: "../images/portfolio/sketch_man.jpg"
   categories:
   - Sketch
 - title: Window
