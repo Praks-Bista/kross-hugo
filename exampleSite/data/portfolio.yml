@@ -82,7 +82,7 @@ item:
   - Sketch
 - title: Window
   image: images/portfolio/window.jpg
-  project_url: images/portfolio/window.jpg
+  project_url: "../images/portfolio/window.jpg"
   categories:
   - Painting
 - title: Blosson
