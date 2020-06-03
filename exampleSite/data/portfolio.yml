@@ -1,5 +1,20 @@
 ---
 item:
+- title: Magic 8 Ball
+  image: images/portfolio/magic8ball.jpg
+  project_url: https://github.com/Praks-Bista/magicball
+  categories:
+  - Flutter
+- title: Flash Chat App
+  image: images/portfolio/flash_chat.jpg
+  project_url: https://github.com/Praks-Bista/flash_chat
+  categories:
+  - Flutter
+- title: BMI Calculator
+  image: images/portfolio/bmi_calculator.jpg
+  project_url: https://github.com/Praks-Bista/bmi_calculator
+  categories:
+  - Flutter
 - title: Climate app
   image: images/portfolio/weather_app.png
   project_url: https://github.com/Praks-Bista/climate_app
@@ -31,7 +46,7 @@ item:
   categories:
   - Crayon
 - title: Random Dice Generator
-  image: images/portfolio/dice.png
+  image: images/portfolio/dice_generator.jpg
   project_url: https://github.com/Praks-Bista/Dice_app
   categories:
   - Flutter
