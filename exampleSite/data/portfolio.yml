@@ -12,7 +12,7 @@ item:
   - Photography
 - title: ZigZag
   image: images/portfolio/zigzag.jpg
-  project_url: images/portfolio/zigzag.jpg
+  project_url: "../images/portfolio/zigzag.jpg"
   categories:
   - Crayon
 - title: Random Dice Generator
@@ -22,7 +22,7 @@ item:
   - Flutter
 - title: Cosmos
   image: images/portfolio/cosmos.jpg
-  project_url: images/portfolio/cosmos.jpg
+  project_url: "../images/portfolio/cosmos.jpg"
   categories:
   - Painting
 - title: The Flash
