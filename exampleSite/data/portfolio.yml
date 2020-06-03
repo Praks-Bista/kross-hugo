@@ -37,7 +37,7 @@ item:
   - Photography
 - title: Sky
   image: images/portfolio/sky.jpg
-  project_url: images/portfolio/sky.jpg
+  project_url: "../images/portfolio/sky.jpg"
   categories:
   - Photography
 - title: Flower Shot
