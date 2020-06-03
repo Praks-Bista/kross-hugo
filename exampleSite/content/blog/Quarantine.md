@@ -1,6 +1,6 @@
 +++
 date = 2020-06-03T13:25:00Z
-description = ""
+description = "It's almost three months in this lockdown. In the beginning, it was kind of a holiday. No work, no studies, no pressure, just fun. We were not very serious about this situation or might say we were taking it lightly. "
 draft = true
 image = ""
 title = "Quarentine"
