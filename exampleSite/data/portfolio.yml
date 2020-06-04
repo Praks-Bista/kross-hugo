@@ -1,5 +1,10 @@
 ---
 item:
+- title: Xylophone App
+  image: images/portfolio/xylophone_app.jpg
+  project_url: https://github.com/Praks-Bista/Xylophone-app
+  categories:
+  - Flutter
 - title: Magic 8 Ball
   image: images/portfolio/magic8ball.jpg
   project_url: https://github.com/Praks-Bista/magicball
