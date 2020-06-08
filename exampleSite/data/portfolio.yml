@@ -1,5 +1,10 @@
 ---
 item:
+- title: Mandala
+  image: images/portfolio/Bmandala.jpg
+  project_url: "../images/portfolio/Bmandala.jpg"
+  categories:
+  - Sketch
 - title: Xylophone App
   image: images/portfolio/xylophone_app.jpg
   project_url: https://github.com/Praks-Bista/Xylophone-app
