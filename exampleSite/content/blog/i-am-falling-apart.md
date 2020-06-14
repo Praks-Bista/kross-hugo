@@ -1,0 +1,17 @@
++++
+date = 2020-06-13T18:15:00Z
+description = ""
+draft = true
+image = ""
+title = "I am falling apart!!!"
+
++++
+The room is so bright  yet i feel so dark inside. Happiness is buzzing all the way yet i find no happiness in my path. I smile. I smile so that people wont find out i am sad because when they do they ask a lot of questions which i am unable to answer. I don't know why i feel this way. 
+
+I have a happy family, loving friends and a good life. But i am unhappy. I cannot share my thoughts with my parents because i feel like they wont understand me. I cant reach up-to my friends because they might be busy. I am surrounded with people still i am alone. I am dealing with all the negative thoughts that has ramp up my mind. I tend to think a lot. The world is competitive so to survive i need to work hard. I have a perspective towards my life, a purpose which i need to fulfill, a goal which i need to reach but i can't take a step further even if i try. I am unable to figure myself out, i am lost here inside my thoughts, i want to break free, i cannot reach up to that door which will lead me out. I am falling apart please help me.
+
+I have a lot of questions, a lot of doubt in me. I feel like i cannot do it, i feel like i cannot mutter that courage up to speak my heart out. I am falling apart slowly. I want to share my thoughts, i wish someone could help me. My life is getting darker every moment. I cannot think of positive vibes or things. I want to speak but my voice is unheard. I am screaming yet it's in my mind. A single sound is hard to hear from my mouth. I don't know what is happening to me. I have no purpose to live now, i cannot mend myself. I wish somebody would take me to the real path, help me out of this hell which i created. I wish somebody was there. Smiling faces holds the deepest secret. I am fine outside yet i get anxiety . I am getting depressed. I am holding myself hard before i fall apart completely. I think I should end my life before somebody finds out i am having trouble within me. Suicide is all i can think about. Ending my life will be the best because there is no one for me, i am all alone here, nobody understands me. All of them will judge me. I cannot take it now. Nobody will care for me....
+
+Mental health is important so is self love. Let's reach out to family and friends. Let's talk. Let's make time for everyone and check unto them. 1 hour, 1 minute or even a second is enough for changing the perspective of people. Our 1 second can make a lot of difference in another's life. Let's speak up for mental health and depression.  Our messages or our phone call can make a difference, can save a life of our close ones. Say no to suicide. Every life matters. 
+
+  
