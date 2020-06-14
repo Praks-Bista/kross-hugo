@@ -1,6 +1,7 @@
 +++
 date = 2020-04-27T18:15:00Z
 description = "I wake up every morning for the purpose of living today happily. But, things are not going as I planned. “New day new beginning” is just a statement good to hear as I am unable to implement that."
+draft = true
 image = "/images/life.jpg"
 title = "I Am Still Alive"
 
