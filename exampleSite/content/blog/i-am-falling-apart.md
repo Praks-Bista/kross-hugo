@@ -1,7 +1,6 @@
 +++
 date = 2020-06-14T18:15:00Z
 description = ""
-draft = true
 image = "/images/will_i_be_missed.jpg"
 title = "I Am Falling Apart"
 
