@@ -1,8 +1,8 @@
 +++
 date = 2020-06-13T18:15:00Z
-description = ""
+description = "The room is so bright yet I feel so dark inside. Happiness is buzzing all the way yet I find no happiness in my path. I smile. I smile so that people won't find out I am sad because when they do they ask a lot of questions which I am unable to answer. I don't know why I feel this way."
 draft = true
-image = "/images/miss.jpg"
+image = ""
 title = "I am falling apart!!!"
 
 +++
