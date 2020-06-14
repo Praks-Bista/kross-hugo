@@ -5,6 +5,8 @@ image = "/images/future-technology.jpg"
 title = "Technological World and Traditional mindset"
 
 +++
+This is a test line
+
 As today’s world is advancing over new technologies and approaches, we are still in the past doing things that we normally do or we learned. There is a huge gap between us, our parents, grandparents, and the proceeding world's technology. From taking money from people by giving our land to taking money from the bank showing our properties, we humans have grown or say become more selfish. It has become convenient in a way but it has also become bothersome and tiring. Our trust issues over technology is a huge problem here. When we can’t trust people easily, how can we trust online banking and a whole new level of progress in advanced science??
 
 Doing the hard work and getting a reward is our happiness or a sole desire. Money, land, house, jewelry was our possession. Now investing the money in the stock market or any new root-level project has become a trend. In the past, people were worried about a robbery in the house for money and jewelry whereas now, a drop in the stock market or online hacker getting all your personal information is creating a fuss and headache. People are mentally frustrated and in a dilemma. Whom should we trust and whom to not is a real problem here.
