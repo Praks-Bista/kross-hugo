@@ -15,7 +15,6 @@ fields:
   name: description
   label: description
 pages:
-- exampleSite/content/blog/Quarantine.md
 - exampleSite/content/blog/happiness.md
 - exampleSite/content/blog/i-am-still-alive.md
 - exampleSite/content/blog/life.md
