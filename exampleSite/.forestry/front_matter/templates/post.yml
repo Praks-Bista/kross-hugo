@@ -16,7 +16,6 @@ fields:
   label: description
 pages:
 - exampleSite/content/blog/happiness.md
-- exampleSite/content/blog/i-am-falling-apart.md
 - exampleSite/content/blog/i-am-still-alive.md
 - exampleSite/content/blog/life.md
 - exampleSite/content/blog/technological-world-and-traditional-mindset.md
