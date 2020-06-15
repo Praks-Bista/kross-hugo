@@ -31,7 +31,7 @@
           {{ if and ( ne .project_url "" ) ( ne .project_url "#" ) }}
           <div class="hover-overlay">
             <div class="hover-content">
-              <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}">view project</a>
+              <a class="btn btn-light btn-sm" href="{{ .project_url | safeURL }}">View</a>
             </div>
           </div>
           {{ end }}
@@ -46,11 +46,13 @@
 {{ if .Site.Data.portfolio.clients_logo_slider.enable }}
 <section class="section bg-light">
   <div class="container">
+    {{ with .Site.Data.portfolio.clients_logo_slider.title}}
     <div class="row">
       <div class="col-12 text-center">
-        <h2 class="section-title">{{ .Site.Data.portfolio.clients_logo_slider.title | markdownify }}</h2>
+        <h2 class="section-title">{{ . | markdownify }}</h2>
       </div>
     </div>
+    {{ end }}
     {{ partial "client-slider.html" . }}
   </div>
 </section>
