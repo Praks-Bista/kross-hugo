@@ -1,7 +1,7 @@
 +++
 date = 2020-08-16T12:15:00Z
 description = "Birds chirping, a gust of wind, balloons, music. Small things used to make me happy. But now I don’t see myself smiling often. I am rather sitting in a corner of my room gawking the ceiling. I don’t know what made me this way. I have become alone, excluded, and unhappy."
-image = "/images/lost.jpg"
+image = ""
 title = "I was lost"
 
 +++
